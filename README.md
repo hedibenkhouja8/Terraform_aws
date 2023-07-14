@@ -24,3 +24,4 @@ apres change le statut de processed
 VOUS TROUVEZ LES IMAGES DES CHANGEMENTS NECESSAIRES QUE J'AI EFFECTUE SUR LA CONSOLE
 
 Merci :)
+![Architecture](architecture.png)
