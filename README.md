@@ -23,5 +23,7 @@ apres change le statut de processed
 
 VOUS TROUVEZ LES IMAGES DES CHANGEMENTS NECESSAIRES QUE J'AI EFFECTUE SUR LA CONSOLE DANS LE REPO
 
+je pense que j'ai accompli toutes les tâches demandées.
+
 Merci :)
 ![Architecture](architecture.png)
