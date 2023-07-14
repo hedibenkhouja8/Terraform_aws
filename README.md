@@ -1,7 +1,7 @@
 ﻿# Terraform-aws
 Sur le fichier terraform :
 j'ai caché le provider puisque c'est interdit par aws;
-j'ai créer une lambda qui est lié a une api gateway et une dynamo db avec les roles et les policies necessaire pour effectuer la requete post avec cet schema :
+j'ai créer une lambda qui est lié a une api gateway et une dynamo db avec les roles,route et les policies necessaire pour effectuer la requete post avec cet schema :
 {
     
     "id" : 5764520013128,
