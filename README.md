@@ -21,7 +21,7 @@ apres il y'a une condition ou soit il stocke dans la 2eme table ou la s3 selon l
 apres change le statut de processed
 
 
-VOUS TROUVEZ LES IMAGES DES CHANGEMENTS NECESSAIRES QUE J'AI EFFECTUE SUR LA CONSOLE
+VOUS TROUVEZ LES IMAGES DES CHANGEMENTS NECESSAIRES QUE J'AI EFFECTUE SUR LA CONSOLE DANS LE REPO
 
 Merci :)
 ![Architecture](architecture.png)
