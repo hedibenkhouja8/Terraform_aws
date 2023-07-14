@@ -15,4 +15,12 @@ Sur la console :
 j'ai creer un bucket s3
 j'ai creer une 2 eme Lambda qui vas etre triggered a partir de la premiere table 
 et selon le type de job "addtos3" ou add "addtodynamodb" soit elle stocke le job dans l'S3 ou dans la 2eme table
-je laisse le code de la 2eme lambda dans la repo avec le nom "index2.js"
+je laisse le code de la 2eme lambda dans la repo avec le nom "index2.js": 
+le code fetch le job qui a fait le trigger 
+apres il y'a une condition ou soit il stocke dans la 2eme table ou la s3 selon le type
+apres change le statut de processed
+
+
+VOUS TROUVEZ LES IMAGES DES CHANGEMENTS NECESSAIRES QUE J'AI EFFECTUE SUR LA CONSOLE
+
+Merci :)
